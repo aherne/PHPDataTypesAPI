@@ -1,2 +1,4 @@
 <?php
-class DataTypeException extends Exception {}
+class DataTypeException extends Exception
+{
+}
